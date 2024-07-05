@@ -1,1 +1,1 @@
-# farmbiomol
+# FArmBioMoL Chemical Library @FAU-PharmBio
