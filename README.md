@@ -12,4 +12,3 @@ For further information, please get in touch with us via email, as shown below.
 
 Dr. rer. nat. Thanet Pitakbut: thanet.pitakbut@fau.de; Dr. rer. nat. Jennifer Munkert: jennifer.munkert@fau.de; Prof. Dr. Gregor Furhman: gregor.fuhrmann@fau.de
 
-test
