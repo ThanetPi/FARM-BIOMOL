@@ -6,7 +6,7 @@ This chemical library comprises approximately 150 compounds (primarily natural p
 This FArmBioMoL chemical library was established in 2022 to support scientific research, especially the anti-AMR bacterial infection study (our primary objective) conducted by students and scientists from the Division of Pharmaceutical Biology.
 
 ### Research collaboration
-We are happy to initiate and collaborate on a research project with scientists who share our objective of fighting AMR bacterial infection. However, we are also open to exciting Pharmaceutical Sciences, Biology, Biotechnology, and chemistry research topics. Therefore, don't hesitate to contact us for further discussion about our potential exciting research project.
+We are happy to initiate and collaborate on a research project with scientists who share our objective of fighting AMR bacterial infection. However, we are also open to exciting research topics in Pharmaceutical Sciences, Biology, Biotechnology, and chemistry. Therefore, don't hesitate to contact us for further discussion about a potential exciting research collaboration project.
 
 ### Acknowledgment
 This chemical library received partial funding from Gustav Adolf and Erika Dornhecker-Stiftung from the Department of Chemistry and Pharmacy, FAU, for an initial chemical expansion.
