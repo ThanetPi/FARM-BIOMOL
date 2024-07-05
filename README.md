@@ -1,7 +1,7 @@
 # FArmBioMoL Chemical Library @FAU-PharmBio
 
 ### About the library
-This chemical library comprises approximately 150 compounds (primarily natural products). It belongs to the Division of Pharmaceutical Biology, Department of Biology, Faculty of Natural Sciences, Friedrich-Alexander-Universität Erlangen-Nürnberg under Prof. Dr. Gregor Furhmann.
+This chemical library comprises approximately 150 compounds (primarily natural products). It belongs to the Division of Pharmaceutical Biology, Department of Biology, Faculty of Natural Sciences, Friedrich-Alexander-Universität Erlangen-Nürnberg under Prof. Dr. Gregor Fuhrmann.
 
 This FArmBioMoL chemical library was established in 2022 to support scientific research, especially the anti-AMR bacterial infection study (our primary objective) conducted by students and scientists from the Division of Pharmaceutical Biology.
 
@@ -21,5 +21,5 @@ Dr. rer. nat. Thanet Pitakbut: thanet.pitakbut@fau.de
 Dr. rer. nat. Jennifer Munkert: jennifer.munkert@fau.de
 
 
-Prof. Dr. Gregor Furhman: gregor.fuhrmann@fau.de
+Prof. Dr. Gregor Fuhrman: gregor.fuhrmann@fau.de
 
