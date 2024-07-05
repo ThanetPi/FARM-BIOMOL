@@ -15,5 +15,9 @@ This chemical library received partial funding from Gustav Adolf and Erika Dornh
 Dr. rer. nat. Thanet Pitakbut is the primary person responsible for the chemical library, and Dr. rer. nat. Jennifer Munkert is a shared response person.
 For further information, please get in touch with us via email, as shown below.
 
-Dr. rer. nat. Thanet Pitakbut: thanet.pitakbut@fau.de; Dr. rer. nat. Jennifer Munkert: jennifer.munkert@fau.de; Prof. Dr. Gregor Furhman: gregor.fuhrmann@fau.de
+Dr. rer. nat. Thanet Pitakbut: thanet.pitakbut@fau.de
+
+Dr. rer. nat. Jennifer Munkert: jennifer.munkert@fau.de
+
+Prof. Dr. Gregor Furhman: gregor.fuhrmann@fau.de
 
