@@ -6,7 +6,7 @@ This chemical library comprises approximately 150 compounds (primarily natural p
 This FARMBIOMOL chemical library was established in 2022 to support scientific research, especially the anti-AMR bacterial infection study conducted by students and scientists from the Division of Pharmaceutical Biology.
 
 
-## Inquiry
+### Inquiry
 Dr. rer. nat. Thanet Pitakbut is the primary person responsible for the chemical library, and Dr. rer. nat. Jennifer Munkert is a shared response person.
 For further information, please get in touch with us via email, as shown below.
 
