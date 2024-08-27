@@ -8,7 +8,7 @@
 ### About the library
 
 
-![](/logo/chemlib.png)
+![](/logo/chemli.png)
 
 
 This chemical library comprises approximately 150 compounds (primarily natural products). It belongs to the Division of Pharmaceutical Biology, Department of Biology, Faculty of Natural Sciences, Friedrich-Alexander-Universität Erlangen-Nürnberg under Prof. Dr. Gregor Fuhrmann.
