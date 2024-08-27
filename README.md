@@ -16,6 +16,7 @@ This FARM-BIOMOL chemical library was established in 2022 to support scientific 
 ### Research collaboration
 We are happy to initiate and collaborate on a research project with scientists who share our objective of fighting AMR bacterial infection. However, we are also open to exciting Pharmaceutical Sciences, Biology, Biotechnology, or chemistry research topics. Therefore, don't hesitate to contact us for further discussion on any potential exciting research collaboration project.
 
+![](logo/gen-ai-collaboration3.png)
 ### Acknowledgment
 This chemical library received partial funding from Gustav Adolf and Erika Dornhecker-Stiftung (Dr. rer. nat. Thanet Pitakbut as a recipient) from the Department of Chemistry and Pharmacy, FAU, for an initial chemical expansion. Dr. rer. nat. Jennifer Munkert contributes a portion of steroidal and cardenolide natural products from her chemical collection to the library.
 
