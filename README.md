@@ -1,5 +1,8 @@
 # FARM-BIOMOL Chemical Library @FAU-PharmBio
 
+#### Ref: [![DOI](https://zenodo.org/badge/824564797.svg)](https://zenodo.org/doi/10.5281/zenodo.13380002)
+
+
 ### About the library
 This chemical library comprises approximately 150 compounds (primarily natural products). It belongs to the Division of Pharmaceutical Biology, Department of Biology, Faculty of Natural Sciences, Friedrich-Alexander-Universität Erlangen-Nürnberg under Prof. Dr. Gregor Fuhrmann.
 
