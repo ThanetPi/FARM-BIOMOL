@@ -20,6 +20,7 @@ We are happy to initiate and collaborate on a research project with scientists w
 ### Acknowledgment
 This chemical library received partial funding from Gustav Adolf and Erika Dornhecker-Stiftung (Dr. rer. nat. Thanet Pitakbut as a recipient) from the Department of Chemistry and Pharmacy, FAU, for an initial chemical expansion. Dr. rer. nat. Jennifer Munkert contributes a portion of steroidal and cardenolide natural products from her chemical collection to the library.
 
+![](logo/gen-ai-contact3.png)
 ### Inquiry
 Dr. rer. nat. Thanet Pitakbut is the primary person responsible for the chemical library, and Dr. rer. nat. Jennifer Munkert is a shared response person.
 For further information, please contact us via email, as shown below.
