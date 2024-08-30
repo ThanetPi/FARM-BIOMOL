@@ -13,7 +13,9 @@ This chemical library comprises approximately 150 compounds (primarily natural p
 
 This FARM-BIOMOL chemical library was established in 2022 to support scientific research, especially the anti-AMR bacterial infection study (our primary objective) conducted by students and scientists from the Division of Pharmaceutical Biology.
 
-![](logo/2024-Chemlib-logo-V2.png)
+
+FARM-BIOMOL logo can be found here: [Click](logo/FARM-BIOMOL-logo.md)
+
 ![](/logo/chemlib2.png)
 
 ### Research collaboration
