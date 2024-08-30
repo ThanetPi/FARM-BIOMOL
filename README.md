@@ -29,9 +29,9 @@ This chemical library received partial funding from Gustav Adolf and Erika Dornh
 
 ### Contact information
 
-Dr. rer. nat. Thanet Pitakbut (Primary responsible person): [Email](thanet.pitakbut@fau.de)
+Dr. rer. nat. Thanet Pitakbut (Primary responsible person): [Email](mailtp:thanet.pitakbut@fau.de)
 
-Dr. rer. nat. Jennifer Munkert (Shared responsible person): [Email](jennifer.munkert@fau.de)
+Dr. rer. nat. Jennifer Munkert (Shared responsible person): [Email](mailto:jennifer.munkert@fau.de)
 
-Prof. Dr. Gregor Fuhrman (Head of Division): [Email](gregor.fuhrmann@fau.de)
+Prof. Dr. Gregor Fuhrman (Head of Division): [Email](mailto:gregor.fuhrmann@fau.de)
 
