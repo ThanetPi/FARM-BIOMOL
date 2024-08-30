@@ -11,4 +11,4 @@
 
 This logo was designed by Dr. rer. nat. Thanet Pitakbut.
 
-![](logo/2024-Chemlib-logo-V2.png)
+![](/logo/2024-Chemlib-logo-V2.png)
