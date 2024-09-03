@@ -23,7 +23,7 @@ We are happy to initiate and collaborate on a research project with scientists w
 
 ![](logo/gen-ai-collaboration3.png)
 ### Acknowledgment
-This chemical library received partial funding from Gustav Adolf and Erika Dornhecker-Stiftung (Dr. rer. nat. Thanet Pitakbut as a recipient) from the Department of Chemistry and Pharmacy, FAU, for an initial chemical expansion. Dr. rer. nat. Jennifer Munkert contributes a portion of steroidal and cardenolide natural products from her chemical collection to the library.
+This chemical library received partial funding from Dr. Hertha und Helmut Schmauser-Stiftung (Dr. rer. nat. Thanet Pitakbut as a recipient) from the Faculty of Natural Sciences, FAU, for an initial chemical expansion. Dr. rer. nat. Jennifer Munkert contributes a portion of steroidal and cardenolide natural products from her chemical collection to the library.
 
 ![](logo/gen-ai-contact3.png)
 
