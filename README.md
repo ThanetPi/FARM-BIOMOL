@@ -29,7 +29,7 @@ This chemical library received partial funding from Dr. Hertha und Helmut Schmau
 
 ### Contact information
 
-Dr. rer. nat. Thanet Pitakbut (Primary responsible person): [Email](mailto:thanet.pitakbut@fau.de)
+Dr. rer. nat. Thanet Pitakbut (Primary responsible person and Admin page): [Email](mailto:thanet.pitakbut@fau.de)
 
 Dr. rer. nat. Jennifer Munkert (Shared responsible person): [Email](mailto:jennifer.munkert@fau.de)
 
