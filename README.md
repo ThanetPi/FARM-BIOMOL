@@ -3,7 +3,7 @@
 # FARM-BIOMOL Chemical Library @FAU-PharmBio
 
 
-##### Ref: [![DOI](https://zenodo.org/badge/824564797.svg)](https://zenodo.org/doi/10.5281/zenodo.13380002)
+##### Ref: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13380003.svg)](https://doi.org/10.5281/zenodo.13380003)
 ###### *See the webpage: [Click here](https://thanetpi.github.io/FARM-BIOMOL/)*
 ###### *see the official webpage: [Click here](https://pharmbio-fau-erlangen.github.io/FARM-BIOMOL/)*
 
